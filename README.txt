@@ -1,25 +1,16 @@
-SENTENCE TRAILS — FOUR ADVENTURES
+SENTENCE TRAILS — THREE ADVENTURES
 
-GET STARTED
-Extract the whole ZIP. Open index.html in a browser. Keep the five HTML files together in the same folder. No installation or internet connection is needed.
+Extract the ZIP and open index.html in a browser. Keep all four HTML files together. No installation or internet connection is needed.
 
 FILES
-index.html — home screen
+index.html — shared home screen
 appositives.html — three-round platformer
-participles.html — three-round platformer, with optional book sentences
-conjunctions.html — three-round platformer for meaning, dependent clauses and commas
-sentence-defenders.html — automatic tower defence, five waves with an option to continue to ten
+participles.html — three-round platformer with optional book sentences
+sentence-defenders.html — tower defence for sentence structure and conjunctions; five waves with the option to continue to ten
 
-NAVIGATION
-Every adventure returns to index.html through its Back to hub button. Each adventure also opens directly. Returning to the hub starts a new run next time; optional practice completion may be remembered by the browser.
-
-TEACHER CONTENT
-Use Edit levels or Edit content inside each adventure. When downloading a customised game, keep its exact filename listed above so the home-page link keeps working. Keep this original package as your master copy. Participles exports omit tagged book content when Include authentic book sentences is off.
+Every game returns to the home screen through Back to hub. Controls and help contains the detailed instructions. Edit levels or Edit content opens the teacher tools.
 
 HOSTING
-Upload all five HTML files together into one website folder, with index.html at its root. No build step, dependencies or external assets are required.
+Upload all four HTML files together into the same website folder, with index.html at the root. Keep these filenames when downloading customised versions.
 
-VERSIONS INCLUDED
-Appositives and Participles: separate versions from Sentence Trails v9.
-Conjunctions: first release.
-Sentence Defenders: v6, including conjunction tasks and the optional five-wave extension.
+The standalone Conjunctions platformer has been left out of this package for now. Conjunction questions remain in Sentence Defenders.
